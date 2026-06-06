@@ -1,2 +1,4 @@
-# Elliot-Rowshan-
-Målet just nu är att omvandla pdf tentor till interaktiva webbsidor. Kommer säkert lägga till fler funktioner i framtiden.
+# Elliot-Rowshan
+Sammanfattning av GitHub sidan:
+Målet är att omvandla pdf tentor till interaktiva webbsidor. Kommer säkert lägga till fler funktioner i framtiden om jag orkar lära mig programmering och HTML.
+Jag äger inte materialet som läggs upp. 
